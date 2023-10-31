@@ -1,0 +1,8 @@
+# Node.js
+node_modules/
+
+# Archivos de configuración
+*.env
+
+# Dependencias generadas por npm
+package-lock.json
